@@ -35,5 +35,5 @@ healthcare providers using Medicare claims data with machine learning.
 - Kaggle Notebooks
 
 ## Dashboard Preview
-![Dashboard](dashboard_screenshot.png.jpg)
+![Dashboard](dashboard_screenshot.png)
 
