@@ -35,4 +35,4 @@ healthcare providers using Medicare claims data with machine learning.
 - Kaggle Notebooks
 
 ## Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
+https://github.com/mounika-healthcare-analyst/healthcare-fraud-detection/blob/main/dashboard_screenshot.png.jpg
